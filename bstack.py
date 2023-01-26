@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from getpass import getpass
 
-userName = os.environ['ajithkumar_O5LtPf']
-accessKey = os.environ['chDzgheXDyQmy95wW4GQ']
+userName = os.environ['soniamat_lVsYqC']
+accessKey = os.environ['Fn1kP1qDYxth5y2npmYV']
 localIdentifier = os.environ['BROWSERSTACK_LOCAL_IDENTIFIER']
 buildName = os.environ['Build 1']
 projectName = os.environ['Sample sandbox project']
